@@ -1,4 +1,4 @@
-# WEB103 Project 4 - *Bolt bucket *
+# WEB103 Project 4 - Bolt bucket
 
 Submitted by: **Luis Pina**
 
@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![boldbucket]()
+![boldbucket](https://github.com/ldpina/web103_unit4_project/blob/main/boltBucket.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreentoGif  GIF tool here
